@@ -52,6 +52,10 @@ Python 3.11 required.
 - **USGS NWIS** — [waterdata.usgs.gov](https://waterdata.usgs.gov/) (public domain)
 - **Chesapeake Bay Program Data Hub** — [datahub.chesapeakebay.net](https://datahub.chesapeakebay.net/)
 
+## Acknowledgments
+
+This repository — notebooks, documentation, and scaffolding — was developed in collaboration with Claude Opus 4.7 (Anthropic).
+
 ## License
 
 MIT for code in this repo · Apache-2.0 for the underlying dataset.
