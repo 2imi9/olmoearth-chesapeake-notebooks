@@ -19,7 +19,7 @@ Hands-on Jupyter notebooks for exploring monthly nutrient loading in the Chesape
 |---|---|---|
 | 01 | `demo_quick_look.ipynb` | First-look demo: load, plot, summarize |
 | 02 | `data_prep_reproduce.ipynb` | End-to-end dataset reproduction from raw USGS sources |
-| 03 | `tutorial_embeddings_rf.ipynb` | OlmoEarth embeddings + Random Forest tutorial |
+| 03 | `tutorial_embeddings.ipynb` | OlmoEarth embedding extraction tutorial (model load, forward pass, real-Sentinel-2 recipe) |
 | 04 | `analysis_results.ipynb` | Cross-station analysis and key findings |
 
 ## Quick Start

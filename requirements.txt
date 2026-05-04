@@ -1,6 +1,8 @@
 # Python 3.11 baseline.
-# Notebooks that use OlmoEarth embeddings (e.g. 03_tutorial_embeddings_rf)
-# additionally require: rasterio einops rslearn olmoearth_pretrain
+# Notebook 03_tutorial_embeddings additionally requires:
+#   torch (CUDA build recommended), olmoearth_pretrain, rasterio, einops
+# For the optional Sentinel-2 acquisition recipe in 03:
+#   planetary_computer, pystac_client
 # Install those as needed inside the notebook.
 
 jupyter
